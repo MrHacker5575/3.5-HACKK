@@ -1,7 +1,7 @@
 {
     "name": "Sandesh Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
-    "postStartCommand": "echo '*'; echo '*         @Spike_Magic Bot Running      *'; echo '*'; python /workspaces/Sandesh/LEGEND.py",
+    "postStartCommand": "echo '*'; echo '*         @LEGENDXOPL Bot Running      *'; echo '*'; python /workspaces/Sandesh/MOTIGAND.py",
     "postCreateCommand": "pip install pymongo python-telegram-bot pyTelegramBotAPI certifi && chmod +x /workspaces/Sandesh/*",
     "customizations": {
         "vscode": {
