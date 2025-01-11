@@ -6,8 +6,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 import pymongo
 
 # Configuration
-TOKEN = "7744221435:AAHsQfcIjjOrZAXGo-RfhenKt0b2_y2qEGw"  # Replace with your Telegram bot token
-ADMIN_IDS = {1752541652}  # Replace with your actual admin user ID(s)
+TOKEN = "7995472252:AAHSLvx3mvFZrZ5vmod1m_9uToUZijnu3us"  # Replace with your Telegram bot token
+ADMIN_IDS = {6655079166}  # Replace with your actual admin user ID(s)
 
 # MongoDB setup
 mongo_client = pymongo.MongoClient("mongodb+srv://Magic:Spike@cluster0.fa68l.mongodb.net/TEST?retryWrites=true&w=majority&appName=Cluster0")
